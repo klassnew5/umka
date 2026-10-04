@@ -1,0 +1,204 @@
+{
+  "seo": {
+    "title": "Детский развивающий центр 'Умка': развитие и творчество",
+    "description": "Центр развития ребенка 'Умка' предлагает занятия для малышей от 1 года до 7 лет. Творчество, спорт и интеллектуальное развитие."
+  },
+  "brand": {
+    "name": "Умка",
+    "industry": "детский развивающий центр 'Умка'",
+    "slogan": "Развиваем ум, открываем мир!",
+    "colors": "синий, белый",
+    "logo_style": "минимализм"
+  },
+  "hero": {
+    "title": "Умка",
+    "subtitle": "Творим, играем, развиваемся вместе!",
+    "description": "Приглашаем ваших малышей от 1 года до 7 лет заниматься творчеством, спортом и развивать интеллект в нашем центре.",
+    "cta_text": "Записаться"
+  },
+  "sections": [
+    {
+      "id": "about",
+      "title": "Почему выбирают нас?",
+      "content": "Уютная атмосфера, профессиональные педагоги и современные методики помогают детям раскрыть потенциал и стать успешнее.",
+      "features": [
+        "Современные методики развития",
+        "Квалифицированные педагоги",
+        "Удобное расписание занятий"
+      ]
+    },
+    {
+      "id": "services",
+      "title": "Что мы предлагаем?",
+      "items": [
+        {
+          "name": "Творческие мастерские",
+          "description": "Рисование, лепка, аппликация и другие виды творчества для всестороннего развития ребенка."
+        },
+        {
+          "name": "Спортивные секции",
+          "description": "Фитнес, танцы, гимнастика и игровые виды спорта для укрепления здоровья и физической формы."
+        },
+        {
+          "name": "Интеллектуальные занятия",
+          "description": "Логические игры, чтение, математика и развитие речи для подготовки к школе."
+        }
+      ]
+    },
+    {
+      "id": "process",
+      "title": "Как мы работаем?",
+      "items": [
+        {
+          "step": "*1*",
+          "name": "Выбор программы",
+          "description": "Подбор индивидуальной программы развития согласно возрасту и интересам вашего ребенка."
+        },
+        {
+          "step": "*2*",
+          "name": "Регулярные занятия",
+          "description": "Посещение занятий два-три раза в неделю в удобное время."
+        },
+        {
+          "step": "*3*",
+          "name": "Оценка прогресса",
+          "description": "Мониторинг результатов и поддержка родителей на каждом этапе развития."
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "title": "Что говорят родители",
+      "items": [
+        {
+          "name": "",
+          "text": "«Спасибо центру 'Умка'! Наши дети стали гораздо общительнее и увереннее в себе.»"
+        },
+        {
+          "name": "",
+          "text": "«Замечательные педагоги и интересные занятия. Отличный выбор для развития нашего малыша!»"
+        },
+        {
+          "name": "",
+          "text": "«Ребенок с удовольствием ходит на занятия, постоянно делится своими успехами дома.»"
+        }
+      ]
+    },
+    {
+      "id": "pricing",
+      "title": "Стоимость услуг",
+      "items": [
+        {
+          "name": "Занятие",
+          "price": "*800 ₽*",
+          "description": "Развивающее занятие 45 минут"
+        },
+        {
+          "name": "Абонемент",
+          "price": "*6500 ₽*",
+          "description": "8 занятий в месяц"
+        },
+        {
+          "name": "Полный день",
+          "price": "*25000 ₽*",
+          "description": "Пребывание + питание + занятия"
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "title": "Часто задаваемые вопросы",
+      "items": [
+        {
+          "question": "Какие возрастные группы вы принимаете?",
+          "answer": "Мы принимаем детей от одного года до семи лет."
+        },
+        {
+          "question": "Сколько раз в неделю проводятся занятия?",
+          "answer": "Количество занятий варьируется от двух до трех раз в неделю."
+        },
+        {
+          "question": "Можно ли выбрать удобное время занятий?",
+          "answer": "Да, расписание составляется индивидуально для каждого ребенка."
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "id": "hero",
+      "caption": "Твой путь начинается здесь",
+      "prompt": "happy slavic boy and girl playing with colorful building blocks and lego on the floor in bright modern kindergarten, wide shot, distance view, colorful toys around, warm atmosphere, sharp focus, ultra high quality, 8k, professional photo"
+    },
+    {
+      "id": "about",
+      "caption": "Комфорт и качество",
+      "prompt": "bright children's classroom interior with colorful toys on shelves, no people, no hands, no fingers, empty room, interior photography, sharp focus, ultra high quality, 8k"
+    },
+    {
+      "id": "services",
+      "caption": "Профессиональный подход",
+      "prompt": "kids art supplies on table, colorful pencils, paper, toys, bright, no hands, 8k"
+    },
+    {
+      "id": "process",
+      "caption": "Как мы работаем",
+      "prompt": "children doing creative activities in bright kindergarten, kids drawing and playing, colorful, slavic children, sharp focus, ultra high quality, 8k"
+    }
+  ],
+  "privacy_policy": "Настоящая политика конфиденциальности объясняет сбор, использование и защиту персональных данных. Собираются только необходимые данные: ФИО, номер телефона, адрес электронной почты. Персональные данные не передаются третьим лицам.",
+  "footer": {
+    "copyright": "© 2025 Умка",
+    "contacts": {
+      "email": "info@umka.ru",
+      "phone": "+7 (999) 123-45-67"
+    }
+  },
+  "achievements": [
+    {
+      "number": "*7*",
+      "label": "лет"
+    },
+    {
+      "number": "*640*",
+      "label": "детей"
+    },
+    {
+      "number": "*22*",
+      "label": "педагога"
+    }
+  ],
+  "contacts": {
+    "address": "г. Москва",
+    "map_query": "Москва",
+    "working_hours": "9:00-21:00"
+  },
+  "calendly_link": "https://calendly.com/",
+  "downloaded_images": {
+    "hero": [
+      {
+        "path": "images/hero.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "about": [
+      {
+        "path": "images/about.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "services": [
+      {
+        "path": "images/services.png",
+        "photographer": "Kandinsky AI"
+      }
+    ],
+    "process": [
+      {
+        "path": "images/team.png",
+        "photographer": "Kandinsky AI"
+      }
+    ]
+  },
+  "logo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 200\">\n            <circle cx=\"100\" cy=\"100\" r=\"90\" fill=\"#e63946\" />\n            <text x=\"100\" y=\"120\" font-family=\"Arial\" font-size=\"80\" fill=\"white\" \n                  text-anchor=\"middle\" font-weight=\"bold\">U</text>\n        </svg>"
+}
